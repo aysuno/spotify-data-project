@@ -5,10 +5,10 @@ This project was carried out within the scope of Sabancı University CS210 Intro
 
 - **Exploratory Data Analysis**
 
-    - Visualizations Descriptive Statistics
-    - Example Visualizations of Aggregated Forms Based on Features
-    - Analysis of the Most Popular Artists and Songs
-    - How Songs of Different Genres Change Over Time
+    - Visualizations descriptive statistics
+    - Example visualizations of aggregated forms based on features
+    - Analysis of the most popular artists and songs
+    - How songs of different genres change over time
     - Comparison of features of sub-genres for selected parent genres over time periods
 
 - **Statistical Analysis & Hypothesis Testing**
