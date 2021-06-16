@@ -29,6 +29,4 @@ This project was carried out within the scope of Sabancı University CS210 Intro
     - Song recommendation system
     - Song clustering based on available features and relate them with existing genres
         
-        
-## Did something go wrong while trying to open the notebook?
-Click ```download```. After the raw file is opened, press ```ctrl+s```. 
+       
